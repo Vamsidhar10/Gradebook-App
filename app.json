@@ -25,6 +25,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": { 
+      "apiKey": "AIzaSyDU1geyX9Ftq4otWsM4l3CS4Q5w-GBu9d4",
+      "authDomain": "gradebook-app-fc02e.firebaseapp.com",
+      "projectId": "gradebook-app-fc02e",
+      "storageBucket": "gradebook-app-fc02e.appspot.com",
+      "messagingSenderId": "634909474104",
+      "appId": "1:634909474104:web:9b57843f7fd2c6e1a5d5cd"
     }
   }
 }
